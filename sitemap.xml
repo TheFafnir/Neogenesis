@@ -1,14 +1,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://www.neogenesisnetwork.net/trade.html</loc>
+	</url>
+	<url>
 		<loc>https://www.neogenesisnetwork.net/index.html</loc>
 	</url>
 	<url>
-		<loc>https://www.neogenesisnetwork.net/page1.html</loc>
+		<loc>https://www.neogenesisnetwork.net/staff.html</loc>
 	</url>
 	<url>
-		<loc>https://www.neogenesisnetwork.net/page2.html</loc>
+		<loc>https://www.neogenesisnetwork.net/servers.html</loc>
 	</url>
 	<url>
-		<loc>https://www.neogenesisnetwork.net/page3.html</loc>
+		<loc>https://www.neogenesisnetwork.net/donations.html</loc>
 	</url>
 </urlset>
